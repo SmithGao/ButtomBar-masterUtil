@@ -28,12 +28,12 @@
         "source": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/res/merged/release/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",

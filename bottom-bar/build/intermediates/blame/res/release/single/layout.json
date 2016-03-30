@@ -160,12 +160,12 @@
         "source": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/res/merged/release/layout/bb_bottom_bar_item_container_tablet.xml",
-        "source": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/src/main/res/layout/bb_bottom_bar_item_container_tablet.xml"
-    },
-    {
         "merged": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/res/merged/release/layout/bb_bottom_bar_item_fixed_tablet.xml",
         "source": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/src/main/res/layout/bb_bottom_bar_item_fixed_tablet.xml"
+    },
+    {
+        "merged": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/res/merged/release/layout/bb_bottom_bar_item_container_tablet.xml",
+        "source": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/src/main/res/layout/bb_bottom_bar_item_container_tablet.xml"
     },
     {
         "merged": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
