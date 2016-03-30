@@ -100,12 +100,12 @@
         "source": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/Users/SuperMe/GitHub中央库/ButtomBar-masterUtil/bottom-bar/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
